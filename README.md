@@ -13,7 +13,7 @@ F- PENDING
 
 ## 1) Aprender un lenguaje de programación
 ### 1.1- Javascript
-"[**Head First JavaScript Programming** - A Brain-Friendly Guide](http://shop.oreilly.com/product/0636920027065.do)" por Eric T. Freeman, Elisabeth Robson
+"[**Head First JavaScript Programming** - A Brain-Friendly Guide](http://shop.oreilly.com/product/0636920027065.do)" por Eric T. Freeman, Elisabeth Robson --> Descargue [AQUI](https://ebooks-it.org/144934013x-ebook.htm)
 
 ¿Por qué? = Para soluciones rápidas sin uso de IDE's (Integrated Development Environment o Entornos de Desarrollo) el mejor lenguaje hoy en día es **Javascript**. Hay algo llamado **_Framworks_** que te facilita la vida (quizá veas nombres como Node, Angular, React). Por ahora no les demos bola...
 
