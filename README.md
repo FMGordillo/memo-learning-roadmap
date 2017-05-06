@@ -36,3 +36,11 @@ WORK IN PROGRESS
 # Fuentes
 - O'Reilly
 - [Aazea](https://www.aazea.com) - Libros "gratis"
+
+
+Pasos de Git a realizar.
+1) Bajar el Git.
+2) Clonar el repositorio.
+3) Git commite -a
+4) Git push
+
