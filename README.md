@@ -39,8 +39,8 @@ WORK IN PROGRESS
 
 
 Pasos de Git a realizar.
-1) Bajar el Git.
-2) Clonar el repositorio.
-3) Git commite -a
-4) Git push
+1) Bajar el Git (software).
+2) Clonar el repositorio. (`git clone <url-del-repositorio.git>`)
+3) `git commit -a <tu-mensaje>`
+4) `git push`
 
