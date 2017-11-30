@@ -8,7 +8,11 @@ F- Muchas de estas lecturas respetan un órden (por ejemplo, "leer hasta"). Sin 
 ### M- ¿Cómo puedo mostrarte lo que voy haciendo?
 F- ¡Por acá mismo, en nuestro repositorio de Github!
 ### M- ¿Pero cómo lo uso?
-F- PENDING
+"Template" para que uses:
+1) Bajar Git (software).
+2) Clonar el repositorio. (`git clone <url-del-repositorio.git>`)
+3) `git commit -a <tu-mensaje>`
+4) `git push`
 
 
 ## 1) Aprender un lenguaje de programación
@@ -28,19 +32,17 @@ F- PENDING
 **Leer hasta el CAPÍTULO 8 antes de seguir**
 
 ## 3) Aprender Java
+"[**Head First Java**, 2nd Edition](http://shop.oreilly.com/product/9780596009205.do)" por Bert Bates y Kathy Sierra (O'Reilly)
 
-¿Por qué? = Es un lenguaje empresarial que (hoy en día) garantiza un puesto de trabajo en muchas empresas (mayormente Software Factories).
+¿Por qué? = Es un lenguaje empresarial que (hoy en día) garantiza un puesto de trabajo en muchas empresas (mayormente Software Factories). El libro está desactualizado con algunas cosas, pero la teoría está muy bien enseñada. Es **muy necesario** conocer este lenguaje para poder utilizar Android.
 
-WORK IN PROGRESS
+**NOTA**: Hay versiones online de este libro pero dice que cubre hasta Java 5, y Java está en versión 9. ¡Cuidado con eso!
+
 
 # Fuentes
 - O'Reilly
 - [Aazea](https://www.aazea.com) - Libros "gratis"
 
 
-Pasos de Git a realizar.
-1) Bajar el Git (software).
-2) Clonar el repositorio. (`git clone <url-del-repositorio.git>`)
-3) `git commit -a <tu-mensaje>`
-4) `git push`
+
 
